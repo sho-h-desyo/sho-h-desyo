@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sho-h-desyo, you can call me Bella
 - 👀 I’m interested in hiking
 - 🌱 I’m currently learning how to code like a pro!
-- 💞️ I’m looking to collaborate on projects 
+- 💞️ My skills and technologies: Adobe Photoshop, InDeisgn, Premier Pro, illustrator
 - 📫 How to reach me: on my LinkedIn https://www.linkedin.com/in/hai-pei-liao-b861b2282/ 
 
 <!---
