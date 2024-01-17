@@ -2,7 +2,7 @@
 - 👀 I’m interested in hiking
 - 🌱 I’m currently learning how to code like a pro!
 - 💞️ My skills and technologies: Adobe Photoshop, InDeisgn, Premier Pro, illustrator
-- 📫 How to reach me: on my LinkedIn https://www.linkedin.com/in/hai-pei-liao-b861b2282/ 
+- 📫 How to reach me: on my LinkedIn
 
 <!---
 sho-h-desyo/sho-h-desyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
